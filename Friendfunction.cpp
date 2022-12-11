@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// Program starts
 
 class number
 {
